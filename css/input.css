@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(174, 252, 226);
+ 
+}
+
+
+
+a {
+text-decoration: none;
+}
+
+
+button{
+    width:90px;
+    height:30px;
+}
+
+.img{
+width: 600px;
+}
+
+
+
+fieldset{
+    padding: 20px;
+    margin: 20px;
+}
+
+.form{
+ padding: 20px;
+
+}
+
+.radio-bt{
+	display: flex;
+    flex-direction: row;
+}
+
+ul{
+   list-style-type: none;
+}
+
+.form-wrapper{
+	display: flex;
+	justify-content: center;
+    background-color: peru;
+    width:100%;
+}
+
+.form-box1{
+       background-color: rgb(141, 196, 141);
+}
+
+.form-box2{
+    height:400px;
+}
+
+.form-bt{
+        margin: 0 auto;
+        text-align: center;
+}
